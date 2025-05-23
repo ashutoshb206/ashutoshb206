@@ -71,6 +71,6 @@ I'm passionate about leveraging the power of **AI and emerging technologies** to
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ashutosh-bansal-3aa0a7282"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="www.linkedin.com/in/ashutoshbansal26"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:ashutoshbansal.206@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
