@@ -45,8 +45,7 @@ I'm passionate about leveraging the power of **AI and emerging technologies** to
 
 ## 🌟 Projects & Highlights
 - Built AI/ML-based apps to support dyslexic learners  
-- Developing **Mixed Reality** experiences with occlusion techniques  
-- Created projects that visualize architectural designs in **AR/VR**  
+- Developing **Mixed Reality** experiences with occlusion techniques   
 - Active contributor to open-source and hackathon teams
 
 ---
