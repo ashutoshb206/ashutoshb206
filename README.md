@@ -46,7 +46,7 @@ I'm passionate about leveraging the power of **AI and emerging technologies** to
 </p>
 
 
-<!-- GITHUBWALLPAPER:START -->
+<!-- GITHUBWALLPAPER:START 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/kkiu3pb4gruim78b0xlh9coj-dark.svg?v=1784180991652">
   <source media="(prefers-color-scheme: light)" srcset="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/kkiu3pb4gruim78b0xlh9coj-light.svg?v=1784180991652">
