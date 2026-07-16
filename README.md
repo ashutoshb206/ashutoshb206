@@ -44,3 +44,13 @@ I'm passionate about leveraging the power of **AI and emerging technologies** to
   <a href="[www.linkedin.com/in/ashutoshbansal26](https://www.linkedin.com/in/ashutoshbansal26)"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:ashutoshbansal.206@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
+
+
+<!-- GITHUBWALLPAPER:START -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/kkiu3pb4gruim78b0xlh9coj-dark.svg?v=1784180991652">
+  <source media="(prefers-color-scheme: light)" srcset="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/kkiu3pb4gruim78b0xlh9coj-light.svg?v=1784180991652">
+  <img alt="GitHub profile card" src="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/kkiu3pb4gruim78b0xlh9coj-dark.svg?v=1784180991652">
+</picture>
+<p align="right"><sub><a href="https://githubwallpaper.com">made with githubwallpaper.com</a></sub></p>
+<!-- GITHUBWALLPAPER:END -->
