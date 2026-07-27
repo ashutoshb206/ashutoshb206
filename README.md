@@ -1,7 +1,17 @@
 <div align="center">
 
-  <!-- Custom Handwritten Radar Profile Card -->
+  <!-- Custom Handwritten Profile Banner -->
   <img src="./profile-card.svg" alt="Ashutosh Bansal Profile Card" width="100%" />
+
+  <br /><br />
+
+  <!-- Authentic chart.xkcd Skill Radar Chart -->
+  <img src="./xkcd-radar.svg" alt="chart.xkcd Skill Radar Chart" width="80%" />
+
+  <br /><br />
+
+  <!-- Authentic chart.xkcd Contribution Activity Line Chart -->
+  <img src="./contribution-chart.svg" alt="GitHub Contributions Line Chart" width="90%" />
 
   <br /><br />
 
