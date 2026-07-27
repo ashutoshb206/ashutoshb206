@@ -5,7 +5,7 @@
 
   <br /><br />
 
-  <!-- 2-Column HTML Table: Guarantees Side-by-Side Horizontal Row on GitHub -->
+  <!-- 2-Column HTML Table: Guarantees Side-by-Side Charts Row on GitHub -->
   <table align="center">
     <tr>
       <td align="center" width="50%">
@@ -19,14 +19,20 @@
 
   <br />
 
-  <!-- Contact Badges -->
-  <p align="center">
-    <a href="https://github.com/ashutoshb206"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-    &nbsp;&nbsp;
-    <a href="https://linkedin.com/in/ashutoshbansal26"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    &nbsp;&nbsp;
-    <a href="mailto:ashutoshbansal.206@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  </p>
+  <!-- 3-Column HTML Table: Guarantees Side-by-Side Contact Badges Row on GitHub -->
+  <table align="center">
+    <tr>
+      <td align="center">
+        <a href="https://github.com/ashutoshb206"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+      </td>
+      <td align="center">
+        <a href="https://linkedin.com/in/ashutoshbansal26"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+      </td>
+      <td align="center">
+        <a href="mailto:ashutoshbansal.206@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+      </td>
+    </tr>
+  </table>
 
 </div>
 
