@@ -13,7 +13,7 @@
       }
       .title-bold {
         fill: #0F172A;
-        font-size: 32px;
+        font-size: 30px;
         font-weight: 700;
       }
       .desc-text {
@@ -23,7 +23,7 @@
       }
       .badge-title {
         fill: #0F172A;
-        font-size: 16px;
+        font-size: 15px;
         font-weight: 700;
       }
     </style>
@@ -44,7 +44,7 @@
   <g class="handwritten">
     <!-- LEFT COLUMN: Profile & Bio -->
     <text x="40" y="52" class="user-path">ashutoshb206 /</text>
-    <text x="40" y="92" class="title-bold">agentic-ai-engineer</text>
+    <text x="40" y="92" class="title-bold">genai-ml-agentic-engineer</text>
 
     <!-- Icon Card Container -->
     <rect x="40" y="116" width="76" height="76" rx="16" fill="#0F172A" stroke="#1E293B" stroke-width="1.5" />
@@ -57,9 +57,9 @@
     </g>
 
     <!-- Description Lines -->
-    <text x="134" y="138" class="desc-text">Building multi-agent AI systems,</text>
-    <text x="134" y="162" class="desc-text">Gemma &amp; LLM pipelines, and</text>
-    <text x="134" y="186" class="desc-text">data analytics &amp; SQL workflows.</text>
+    <text x="134" y="138" class="desc-text">Building GenAI &amp; ML applications,</text>
+    <text x="134" y="162" class="desc-text">agentic AI workflows, and</text>
+    <text x="134" y="186" class="desc-text">data analytics &amp; SQL systems.</text>
 
     <!-- Single Blue Language Dot -->
     <circle cx="140" cy="210" r="4.5" fill="#3B82F6"/>
@@ -69,23 +69,23 @@
     <text x="40" y="250" font-size="14" fill="#94A3B8">ROLE <tspan font-weight="700" fill="#475569">SDE &amp; GenAI Intern @ INDmoney</tspan>   ·   GRADUATION <tspan font-weight="700" fill="#475569">JULY 2027</tspan></text>
 
     <!-- RIGHT COLUMN: Highlight Cards -->
-    <g transform="translate(560, 45)">
-      <!-- Highlight Card 1: Agentic AI -->
-      <rect x="0" y="0" width="240" height="60" rx="12" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.5" />
+    <g transform="translate(555, 45)">
+      <!-- Highlight Card 1: GenAI & Agentic AI -->
+      <rect x="0" y="0" width="245" height="60" rx="12" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.5" />
       <circle cx="30" cy="30" r="14" fill="#EFF6FF" stroke="#3B82F6" stroke-width="1.5"/>
       <path d="M25 30l3 3 7-7" stroke="#3B82F6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-      <text x="56" y="28" class="badge-title">Agentic AI &amp; LLMs</text>
-      <text x="56" y="46" font-size="13" fill="#64748B">Multi-Agent Orchestration</text>
+      <text x="56" y="28" class="badge-title">GenAI &amp; Agentic AI</text>
+      <text x="56" y="46" font-size="13" fill="#64748B">LLM Pipelines &amp; Agents</text>
 
-      <!-- Highlight Card 2: Data & SQL -->
-      <rect x="0" y="75" width="240" height="60" rx="12" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.5" />
+      <!-- Highlight Card 2: ML & Data Analytics -->
+      <rect x="0" y="75" width="245" height="60" rx="12" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.5" />
       <circle cx="30" cy="105" r="14" fill="#ECFDF5" stroke="#10B981" stroke-width="1.5"/>
       <path d="M25 105l3 3 7-7" stroke="#10B981" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-      <text x="56" y="103" class="badge-title">Data Analytics &amp; SQL</text>
-      <text x="56" y="121" font-size="13" fill="#64748B">ETL, Databricks &amp; EDA</text>
+      <text x="56" y="103" class="badge-title">Machine Learning &amp; SQL</text>
+      <text x="56" y="121" font-size="13" fill="#64748B">Predictive ML, Databricks &amp; EDA</text>
 
       <!-- Highlight Card 3: Backend & APIs -->
-      <rect x="0" y="150" width="240" height="60" rx="12" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.5" />
+      <rect x="0" y="150" width="245" height="60" rx="12" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.5" />
       <circle cx="30" cy="180" r="14" fill="#FEF3C7" stroke="#F59E0B" stroke-width="1.5"/>
       <path d="M25 180l3 3 7-7" stroke="#F59E0B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
       <text x="56" y="178" class="badge-title">FastAPI &amp; Backend</text>

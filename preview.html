@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GitHub README Preview - ashutoshb206</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Comic+Neue:wght@400;700&family=Shantell+Sans:wght@500;700;800&family=Space+Mono&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.5.1/github-markdown-light.min.css">
+  <style>
+    body {
+      box-sizing: border-box;
+      min-width: 200px;
+      max-width: 960px;
+      margin: 0 auto;
+      padding: 40px 20px;
+      background-color: #fafafa;
+      font-family: 'Comic Neue', 'Shantell Sans', cursive, -apple-system, sans-serif;
+      color: #111111;
+    }
+    .preview-header {
+      background: #ffffff;
+      border: 1px solid #e2e8f0;
+      border-radius: 8px;
+      padding: 14px 20px;
+      margin-bottom: 24px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.03);
+    }
+    .preview-title {
+      font-family: 'Comic Neue', cursive;
+      font-weight: 700;
+      font-size: 15px;
+      color: #0f172a;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .badge-status {
+      background: #dbeafe;
+      color: #1d4ed8;
+      font-size: 11px;
+      padding: 2px 8px;
+      border-radius: 4px;
+      font-weight: 700;
+    }
+    .markdown-body {
+      background: #ffffff;
+      padding: 40px;
+      border: 1px solid #e2e8f0;
+      border-radius: 12px;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.03);
+      font-family: 'Comic Neue', 'Shantell Sans', cursive, sans-serif;
+    }
+    .markdown-body h1, .markdown-body h2, .markdown-body h3 {
+      font-family: 'Comic Neue', cursive;
+      font-weight: 700;
+      border-bottom: none;
+    }
+    .markdown-body code {
+      font-family: 'Space Mono', monospace;
+      background-color: #f1f5f9;
+      color: #0f172a;
+    }
+  </style>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body>
+
+  <div class="preview-header">
+    <div class="preview-title">
+      <span>✨ GenAI, Machine Learning & Agentic AI Balanced Profile Preview</span>
+      <span class="badge-status">GenAI + ML + Agentic AI</span>
+    </div>
+    <div>
+      <span style="font-family:'Space Mono', monospace; font-size: 12px; color: #64748b;">ashutoshb206 / README.md</span>
+    </div>
+  </div>
+
+  <article id="content" class="markdown-body"></article>
+
+  <script>
+    fetch('README.md')
+      .then(res => res.text())
+      .then(text => {
+        document.getElementById('content').innerHTML = marked.parse(text);
+      })
+      .catch(err => {
+        document.getElementById('content').innerHTML = '<p style="color:red;">Failed to load README.md</p>';
+      });
+  </script>
+</body>
+</html>

@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- Custom Profile Banner Card -->
+  <!-- Custom Profile Banner Card (GenAI, ML & Agentic AI Focus) -->
   <img src="./profile-card.svg" alt="Ashutosh Bansal Profile Card" width="100%" />
 
   <br /><br />
@@ -29,7 +29,7 @@
 
 ### About
 
-Pre-final year B.Tech CSE student at **Manipal Institute of Technology, Bengaluru** (CGPA: 7.98). Currently an **SDE & GenAI Intern at INDmoney**, building KYC infrastructure and production LLM pipelines. Specializing in **multi-agent AI systems**, autonomous workflows, and data-driven AI backends.
+Pre-final year B.Tech CSE student at **Manipal Institute of Technology, Bengaluru** (CGPA: 7.98). Currently an **SDE & GenAI Intern at INDmoney**, building KYC infrastructure and production LLM pipelines. Specializing in **GenAI, Machine Learning, Agentic AI systems**, and data-driven backends.
 
 ---
 
@@ -50,8 +50,8 @@ Pre-final year B.Tech CSE student at **Manipal Institute of Technology, Bengalur
 
 ### Tech Stack
 
-- **Agentic AI**: `LangChain` · `LangGraph` · `AutoGen` · `CrewAI` · `Multi-Agent Orchestration` · `Tool Use`
 - **GenAI / LLMs**: `RAG` · `Prompt Engineering` · `Fine-Tuning` · `Vector DBs` · `Anthropic API` · `Groq` · `Ollama` · `Gemma`
-- **Data Analytics & SQL**: `SQL` · `Pandas` · `NumPy` · `ETL Pipelines` · `Power BI` · `Databricks` · `EDA` · `A/B Testing`
+- **Agentic AI**: `LangChain` · `LangGraph` · `AutoGen` · `CrewAI` · `Multi-Agent Orchestration` · `Tool Use`
+- **Data Analytics & ML**: `Machine Learning` · `SQL` · `Pandas` · `NumPy` · `ETL Pipelines` · `Power BI` · `Databricks` · `EDA`
 - **Backend & APIs**: `FastAPI` · `Python` · `REST APIs` · `SSE` · `Node.js` · `PostgreSQL`
 - **Tools & Infra**: `Docker` · `Git` · `Bitbucket` · `Railway` · `Vercel` · `Cursor` · `Claude Code` · `New Relic`
