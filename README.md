@@ -1,20 +1,26 @@
 <div align="center">
 
-  <!-- Custom Handwritten Profile Banner -->
-  <img src="https://raw.githubusercontent.com/ashutoshb206/ashutoshb206/main/profile-card.svg" alt="Ashutosh Bansal Profile Card" width="100%" />
+  <!-- Custom Profile Banner Card -->
+  <img src="./profile-card.svg" alt="Ashutosh Bansal Profile Card" width="100%" />
 
   <br /><br />
 
-  <!-- Authentic chart.xkcd Skill Radar Chart -->
-  <img src="https://raw.githubusercontent.com/ashutoshb206/ashutoshb206/main/xkcd-radar.svg" alt="chart.xkcd Skill Radar Chart" width="80%" />
+  <!-- Side-by-Side Hand-Drawn Charts Row -->
+  <table border="0" width="100%" style="border-collapse: collapse; border: none;">
+    <tr style="border: none;">
+      <td width="49%" align="center" valign="top" style="border: none; padding: 0;">
+        <img src="./xkcd-radar.svg" alt="Skill Radar Chart" width="100%" />
+      </td>
+      <td width="2%" style="border: none;"></td>
+      <td width="49%" align="center" valign="top" style="border: none; padding: 0;">
+        <img src="./contribution-chart.svg" alt="GitHub Contribution Line Chart" width="100%" />
+      </td>
+    </tr>
+  </table>
 
-  <br /><br />
+  <br />
 
-  <!-- Authentic chart.xkcd Contribution Activity Line Chart -->
-  <img src="https://raw.githubusercontent.com/ashutoshb206/ashutoshb206/main/contribution-chart.svg" alt="GitHub Contributions Line Chart" width="90%" />
-
-  <br /><br />
-
+  <!-- Contact Badges -->
   <p align="center">
     <a href="https://github.com/ashutoshb206"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
     &nbsp;&nbsp;
