@@ -1,17 +1,17 @@
 <div align="center">
 
   <!-- Custom Handwritten Profile Banner -->
-  <img src="./profile-card.svg" alt="Ashutosh Bansal Profile Card" width="100%" />
+  <img src="https://raw.githubusercontent.com/ashutoshb206/ashutoshb206/main/profile-card.svg" alt="Ashutosh Bansal Profile Card" width="100%" />
 
   <br /><br />
 
   <!-- Authentic chart.xkcd Skill Radar Chart -->
-  <img src="./xkcd-radar.svg" alt="chart.xkcd Skill Radar Chart" width="80%" />
+  <img src="https://raw.githubusercontent.com/ashutoshb206/ashutoshb206/main/xkcd-radar.svg" alt="chart.xkcd Skill Radar Chart" width="80%" />
 
   <br /><br />
 
   <!-- Authentic chart.xkcd Contribution Activity Line Chart -->
-  <img src="./contribution-chart.svg" alt="GitHub Contributions Line Chart" width="90%" />
+  <img src="https://raw.githubusercontent.com/ashutoshb206/ashutoshb206/main/contribution-chart.svg" alt="GitHub Contributions Line Chart" width="90%" />
 
   <br /><br />
 
