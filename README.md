@@ -5,10 +5,12 @@
 
   <br /><br />
 
-  <p>
-    <a href="https://github.com/ashutoshb206">GitHub</a> &nbsp;·&nbsp;
-    <a href="https://linkedin.com/in/ashutoshbansal26">LinkedIn</a> &nbsp;·&nbsp;
-    <a href="mailto:ashutoshbansal.206@gmail.com">Email</a>
+  <p align="center">
+    <a href="https://github.com/ashutoshb206"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+    &nbsp;&nbsp;
+    <a href="https://linkedin.com/in/ashutoshbansal26"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    &nbsp;&nbsp;
+    <a href="mailto:ashutoshbansal.206@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 
 </div>
