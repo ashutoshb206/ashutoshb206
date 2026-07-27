@@ -1,15 +1,15 @@
 <div align="center">
 
   <!-- Custom Profile Banner Card -->
-  <img src="https://raw.githubusercontent.com/ashutoshb206/ashutoshb206/main/profile-card.svg" alt="Ashutosh Bansal Profile Card" width="100%" />
+  <img src="./profile-card.svg" alt="Ashutosh Bansal Profile Card" width="100%" />
 
   <br /><br />
 
   <!-- Side-by-Side Hand-Drawn Charts Row -->
   <p align="center">
-    <img src="https://raw.githubusercontent.com/ashutoshb206/ashutoshb206/main/xkcd-radar.svg" alt="Skill Radar Chart" width="48%" />
+    <img src="./xkcd-radar.svg" alt="Skill Radar Chart" width="48%" />
     &nbsp;
-    <img src="https://raw.githubusercontent.com/ashutoshb206/ashutoshb206/main/contribution-chart.svg" alt="GitHub Contribution Line Chart" width="48%" />
+    <img src="./contribution-chart.svg" alt="GitHub Contribution Line Chart (Live Data)" width="48%" />
   </p>
 
   <br />
