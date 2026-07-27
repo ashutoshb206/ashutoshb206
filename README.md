@@ -1,15 +1,15 @@
 <div align="center">
 
-  <!-- Custom Profile Banner Card (GenAI, ML & Agentic AI Focus) -->
+  <!-- Custom Profile Banner Card -->
   <img src="./profile-card.svg" alt="Ashutosh Bansal Profile Card" width="100%" />
 
   <br /><br />
 
-  <!-- Side-by-Side Hand-Drawn Charts Row -->
+  <!-- Side-by-Side Hand-Drawn Charts Row (width 45% guarantees side-by-side rendering) -->
   <p align="center">
-    <img src="./xkcd-radar.svg" alt="Skill Radar Chart" width="48%" />
-    &nbsp;
-    <img src="./contribution-chart.svg" alt="GitHub Contribution Line Chart (Live Data)" width="48%" />
+    <img src="./xkcd-radar.svg" alt="Skill Radar Chart" width="45%" />
+    &nbsp;&nbsp;
+    <img src="./contribution-chart.svg" alt="GitHub Contribution Line Chart (Live Data)" width="45%" />
   </p>
 
   <br />
