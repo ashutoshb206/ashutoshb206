@@ -37,6 +37,10 @@
       <stop offset="0%" stop-color="#FFFFFF"/>
       <stop offset="100%" stop-color="#FAFAFA"/>
     </linearGradient>
+
+    <clipPath id="avatarClip">
+      <rect x="40" y="120" width="84" height="84" rx="18" />
+    </clipPath>
     
     <filter id="shadow" x="-5%" y="-5%" width="110%" height="110%">
       <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#000000" flood-opacity="0.04"/>
@@ -48,17 +52,21 @@
 
   <!-- LEFT SECTION -->
   <g class="handwritten">
-    <!-- Repo Title (since 2023 removed) -->
+    <!-- Repo Title -->
     <text x="40" y="52" class="user-path">ashutoshb206 /</text>
     <text x="40" y="92" class="title-bold">agentic-ai-engineer</text>
 
-    <!-- Icon Card -->
-    <rect x="40" y="120" width="84" height="84" rx="18" fill="#0F172A" />
-    <!-- AI Agent Emblem -->
-    <g transform="translate(58, 138)" stroke="#FFFFFF" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round">
-      <path d="M12 2a10 10 0 1 0 10 10A10 10 0 0 0 12 2zm0 18a8 8 0 1 1 8-8 8 8 0 0 1-8 8z" fill="#38BDF8" fill-opacity="0.2"/>
-      <circle cx="12" cy="12" r="4" fill="#38BDF8"/>
-      <path d="M12 2v4M12 18v4M2 12h4M18 12h4" />
+    <!-- Icon Card Container (Centered AI Agent Core Emblem) -->
+    <rect x="40" y="120" width="84" height="84" rx="18" fill="#0F172A" stroke="#1E293B" stroke-width="1.5" />
+    
+    <!-- Centered Glowing AI Agent Emblem -->
+    <g transform="translate(60, 140)">
+      <!-- Outer Pulsing Orbit Ring -->
+      <circle cx="22" cy="22" r="18" fill="#38BDF8" fill-opacity="0.12" stroke="#38BDF8" stroke-width="2" stroke-dasharray="6,3"/>
+      <!-- Inner Core Node -->
+      <circle cx="22" cy="22" r="7" fill="#38BDF8"/>
+      <!-- Cardinal Agent Rays -->
+      <path d="M22 0v6M22 38v6M0 22h6M38 22h6M6.4 6.4l4.2 4.2M33.4 33.4l4.2 4.2M6.4 37.6l4.2-4.2M33.4 10.6l4.2-4.2" stroke="#38BDF8" stroke-width="2" stroke-linecap="round"/>
     </g>
 
     <!-- Description Lines -->
