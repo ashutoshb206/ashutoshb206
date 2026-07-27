@@ -1,22 +1,16 @@
 <div align="center">
 
   <!-- Custom Profile Banner Card -->
-  <img src="./profile-card.svg" alt="Ashutosh Bansal Profile Card" width="100%" />
+  <img src="https://raw.githubusercontent.com/ashutoshb206/ashutoshb206/main/profile-card.svg" alt="Ashutosh Bansal Profile Card" width="100%" />
 
   <br /><br />
 
   <!-- Side-by-Side Hand-Drawn Charts Row -->
-  <table border="0" width="100%" style="border-collapse: collapse; border: none;">
-    <tr style="border: none;">
-      <td width="49%" align="center" valign="top" style="border: none; padding: 0;">
-        <img src="./xkcd-radar.svg" alt="Skill Radar Chart" width="100%" />
-      </td>
-      <td width="2%" style="border: none;"></td>
-      <td width="49%" align="center" valign="top" style="border: none; padding: 0;">
-        <img src="./contribution-chart.svg" alt="GitHub Contribution Line Chart" width="100%" />
-      </td>
-    </tr>
-  </table>
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/ashutoshb206/ashutoshb206/main/xkcd-radar.svg" alt="Skill Radar Chart" width="48%" />
+    &nbsp;
+    <img src="https://raw.githubusercontent.com/ashutoshb206/ashutoshb206/main/contribution-chart.svg" alt="GitHub Contribution Line Chart" width="48%" />
+  </p>
 
   <br />
 
