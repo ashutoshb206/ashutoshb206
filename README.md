@@ -5,12 +5,17 @@
 
   <br /><br />
 
-  <!-- Side-by-Side Hand-Drawn Charts Row (width 45% guarantees side-by-side rendering) -->
-  <p align="center">
-    <img src="./xkcd-radar.svg" alt="Skill Radar Chart" width="45%" />
-    &nbsp;&nbsp;
-    <img src="./contribution-chart.svg" alt="GitHub Contribution Line Chart (Live Data)" width="45%" />
-  </p>
+  <!-- 2-Column HTML Table: Guarantees Side-by-Side Horizontal Row on GitHub -->
+  <table align="center">
+    <tr>
+      <td align="center" width="50%">
+        <img src="./xkcd-radar.svg" alt="Skill Radar Chart" width="100%" />
+      </td>
+      <td align="center" width="50%">
+        <img src="./contribution-chart.svg" alt="GitHub Contribution Line Chart (Live Data)" width="100%" />
+      </td>
+    </tr>
+  </table>
 
   <br />
 
