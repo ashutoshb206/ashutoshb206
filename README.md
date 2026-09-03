@@ -40,7 +40,7 @@
 
 ### About
 
-Pre-final year B.Tech CSE student at **Manipal Institute of Technology, Bengaluru** (CGPA: 7.98). Currently an **SDE & GenAI Intern at INDmoney**, building KYC infrastructure and production LLM pipelines. Specializing in **GenAI, Machine Learning, Agentic AI systems**, and data-driven backends.
+Final year B.Tech CSE student at **Manipal Institute of Technology, Bengaluru** . Currently an **SDE & GenAI Intern at INDmoney**, building KYC infrastructure and production LLM pipelines. Specializing in **GenAI, Machine Learning, Agentic AI systems**, and data-driven backends.
 
 ---
 
