@@ -112,8 +112,8 @@
 <text x="482.5" y="434" class="axis-label" text-anchor="middle">Aug</text>
 <text x="540.0" y="434" class="axis-label" text-anchor="middle">Sep</text>
 
-    <path d="M 80 409.1 C 100.1 409.1, 117.4 383.6, 137.5 383.6 C 157.6 383.6, 174.9 350.0, 195.0 350.0 C 215.1 350.0, 232.4 315.5, 252.5 315.5 C 272.6 315.5, 289.9 313.1, 310.0 313.1 C 330.1 313.1, 347.4 299.9, 367.5 299.9 C 387.6 299.9, 404.9 206.9, 425.0 206.9 C 445.1 206.9, 462.4 139.7, 482.5 139.7 C 502.6 139.7, 519.9 103.1, 540.0 103.1" fill="none" stroke="#DC2626" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M 80 409.1 C 100.1 409.1, 117.4 383.6, 137.5 383.6 C 157.6 383.6, 174.9 350.0, 195.0 350.0 C 215.1 350.0, 232.4 315.5, 252.5 315.5 C 272.6 315.5, 289.9 313.1, 310.0 313.1 C 330.1 313.1, 347.4 299.9, 367.5 299.9 C 387.6 299.9, 404.9 206.9, 425.0 206.9 C 445.1 206.9, 462.4 139.7, 482.5 139.7 C 502.6 139.7, 519.9 103.1, 540.0 103.1" fill="none" stroke="transparent" stroke-width="25" stroke-linecap="round"/>
+    <path d="M 80 409.1 C 100.1 409.1, 117.4 383.6, 137.5 383.6 C 157.6 383.6, 174.9 350.0, 195.0 350.0 C 215.1 350.0, 232.4 315.5, 252.5 315.5 C 272.6 315.5, 289.9 313.1, 310.0 313.1 C 330.1 313.1, 347.4 299.9, 367.5 299.9 C 387.6 299.9, 404.9 206.9, 425.0 206.9 C 445.1 206.9, 462.4 139.7, 482.5 139.7 C 502.6 139.7, 519.9 101.3, 540.0 101.3" fill="none" stroke="#DC2626" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 80 409.1 C 100.1 409.1, 117.4 383.6, 137.5 383.6 C 157.6 383.6, 174.9 350.0, 195.0 350.0 C 215.1 350.0, 232.4 315.5, 252.5 315.5 C 272.6 315.5, 289.9 313.1, 310.0 313.1 C 330.1 313.1, 347.4 299.9, 367.5 299.9 C 387.6 299.9, 404.9 206.9, 425.0 206.9 C 445.1 206.9, 462.4 139.7, 482.5 139.7 C 502.6 139.7, 519.9 101.3, 540.0 101.3" fill="none" stroke="transparent" stroke-width="25" stroke-linecap="round"/>
 
     
     <g class="node-group">
@@ -197,12 +197,12 @@
     </g>
 
     <g class="node-group">
-      <title>Sep 2026: +122 commits (1023 total)</title>
-      <text x="540.0" y="91.1" class="stat-num" text-anchor="middle">1023</text>
-      <circle cx="540.0" cy="103.1" r="7" class="node-dot" fill="#DC2626"/>
-      <g class="tooltip-box" transform="translate(460.0, 65.1)">
+      <title>Sep 2026: +128 commits (1029 total)</title>
+      <text x="540.0" y="89.3" class="stat-num" text-anchor="middle">1029</text>
+      <circle cx="540.0" cy="101.3" r="7" class="node-dot" fill="#DC2626"/>
+      <g class="tooltip-box" transform="translate(460.0, 63.3)">
         <rect x="-85" y="-16" width="170" height="30" rx="5" fill="#0F172A" fill-opacity="0.95" stroke="#DC2626" stroke-width="1.5"/>
-        <text x="0" y="4" font-size="12" font-weight="700" fill="#22C55E" text-anchor="middle">Sep 2026: +122 (1023 Total!)</text>
+        <text x="0" y="4" font-size="12" font-weight="700" fill="#22C55E" text-anchor="middle">Sep 2026: +128 (1029 Total!)</text>
       </g>
     </g>
 
