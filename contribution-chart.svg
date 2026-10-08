@@ -113,8 +113,8 @@
 <text x="488.9" y="434" class="axis-label" text-anchor="middle">Sep</text>
 <text x="540.0" y="434" class="axis-label" text-anchor="middle">Oct</text>
 
-    <path d="M 80 409.2 C 97.9 409.2, 113.2 385.8, 131.1 385.8 C 149.0 385.8, 164.3 355.0, 182.2 355.0 C 200.1 355.0, 215.4 323.4, 233.3 323.4 C 251.2 323.4, 266.6 321.2, 284.4 321.2 C 302.3 321.2, 317.7 309.1, 335.6 309.1 C 353.4 309.1, 368.8 223.8, 386.7 223.8 C 404.6 223.8, 419.9 162.2, 437.8 162.2 C 455.7 162.2, 471.0 110.0, 488.9 110.0 C 506.8 110.0, 522.1 102.6, 540.0 102.6" fill="none" stroke="#DC2626" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M 80 409.2 C 97.9 409.2, 113.2 385.8, 131.1 385.8 C 149.0 385.8, 164.3 355.0, 182.2 355.0 C 200.1 355.0, 215.4 323.4, 233.3 323.4 C 251.2 323.4, 266.6 321.2, 284.4 321.2 C 302.3 321.2, 317.7 309.1, 335.6 309.1 C 353.4 309.1, 368.8 223.8, 386.7 223.8 C 404.6 223.8, 419.9 162.2, 437.8 162.2 C 455.7 162.2, 471.0 110.0, 488.9 110.0 C 506.8 110.0, 522.1 102.6, 540.0 102.6" fill="none" stroke="transparent" stroke-width="25" stroke-linecap="round"/>
+    <path d="M 80 409.2 C 97.9 409.2, 113.2 385.8, 131.1 385.8 C 149.0 385.8, 164.3 355.0, 182.2 355.0 C 200.1 355.0, 215.4 323.4, 233.3 323.4 C 251.2 323.4, 266.6 321.2, 284.4 321.2 C 302.3 321.2, 317.7 309.1, 335.6 309.1 C 353.4 309.1, 368.8 223.8, 386.7 223.8 C 404.6 223.8, 419.9 162.2, 437.8 162.2 C 455.7 162.2, 471.0 110.0, 488.9 110.0 C 506.8 110.0, 522.1 102.0, 540.0 102.0" fill="none" stroke="#DC2626" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 80 409.2 C 97.9 409.2, 113.2 385.8, 131.1 385.8 C 149.0 385.8, 164.3 355.0, 182.2 355.0 C 200.1 355.0, 215.4 323.4, 233.3 323.4 C 251.2 323.4, 266.6 321.2, 284.4 321.2 C 302.3 321.2, 317.7 309.1, 335.6 309.1 C 353.4 309.1, 368.8 223.8, 386.7 223.8 C 404.6 223.8, 419.9 162.2, 437.8 162.2 C 455.7 162.2, 471.0 110.0, 488.9 110.0 C 506.8 110.0, 522.1 102.0, 540.0 102.0" fill="none" stroke="transparent" stroke-width="25" stroke-linecap="round"/>
 
     
     <g class="node-group">
@@ -208,12 +208,12 @@
     </g>
 
     <g class="node-group">
-      <title>Oct 2026: +27 commits (1118 total)</title>
-      <text x="540.0" y="90.6" class="stat-num" text-anchor="middle">1118</text>
-      <circle cx="540.0" cy="102.6" r="7" class="node-dot" fill="#DC2626"/>
-      <g class="tooltip-box" transform="translate(460.0, 64.6)">
+      <title>Oct 2026: +29 commits (1120 total)</title>
+      <text x="540.0" y="90.0" class="stat-num" text-anchor="middle">1120</text>
+      <circle cx="540.0" cy="102.0" r="7" class="node-dot" fill="#DC2626"/>
+      <g class="tooltip-box" transform="translate(460.0, 64.0)">
         <rect x="-85" y="-16" width="170" height="30" rx="5" fill="#0F172A" fill-opacity="0.95" stroke="#DC2626" stroke-width="1.5"/>
-        <text x="0" y="4" font-size="12" font-weight="700" fill="#22C55E" text-anchor="middle">Oct 2026: +27 (1118 Total!)</text>
+        <text x="0" y="4" font-size="12" font-weight="700" fill="#22C55E" text-anchor="middle">Oct 2026: +29 (1120 Total!)</text>
       </g>
     </g>
 
